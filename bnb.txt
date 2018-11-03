@@ -1,5 +1,5 @@
 ALTER TABLE `hotelmanagement`.`admin` 
-CHANGE COLUMN `username` `password` VARCHAR(40) NOT NULL ;
+CHANGE COLUMN `username` `password` s
 Folder structure;
 
 settings
