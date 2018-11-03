@@ -2,7 +2,6 @@ ALTER TABLE `hotelmanagement`.`admin`
 CHANGE COLUMN `username` `password` s
 Folder structure;
 
-settings
 
 src
 
