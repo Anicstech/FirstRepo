@@ -1,0 +1,11 @@
+ALTER TABLE `hotelmanagement`.`admin` 
+CHANGE COLUMN `username` `password` VARCHAR(40) NOT NULL ;
+Folder structure;
+
+settings
+
+src
+
+Image Folder
+
+6225082320810binSystem.nanoTime()

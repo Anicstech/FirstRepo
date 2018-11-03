@@ -1,0 +1,6 @@
+while (it.hasNext()) {
+        Map.Entry pair = (Map.Entry)it.next();
+       Answer ans = (Answer)pair.getKey(); //return key  value  as an object.
+       Question ques =(Question)pair.getValue(); // return value as an object.
+        System.out.println(ques.question + " \n " +ans.answer );
+    }

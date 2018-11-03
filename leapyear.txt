@@ -1,0 +1,14 @@
+if(_year%100==0)
+        {
+            if(_year%400==0)
+                return 1;
+            else
+               return 0;
+        }
+      else
+        {
+          if(_year%4==0)
+                 return 1;
+          else
+            return 0;
+        }
